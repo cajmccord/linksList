@@ -16,6 +16,27 @@ header {
     background-color: azure;
 }
 
+.heading {
+    color: white;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.column {
+    
+}
+
+.list {
+    
+}
+
+.link-item {
+    color:white
+}
+
 footer {
     text-align: center;
 }
